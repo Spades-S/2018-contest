@@ -1,0 +1,14 @@
+{
+  "name": "2018-contest",
+  "version": "1.0.0",
+  "description": "2018-75camp",
+  "main": "index.js",
+  "repository": "https://github.com/Spades-S/2018-contest.git",
+  "author": "Spades-S <allengefeng@163.com>",
+  "license": "MIT",
+  "devDependencies": {
+    "eslint": "^4.19.1",
+    "eslint-config-airbnb-base": "^12.1.0",
+    "eslint-plugin-import": "^2.11.0"
+  }
+}
